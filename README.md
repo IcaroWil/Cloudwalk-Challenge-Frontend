@@ -184,3 +184,6 @@ dist
 .vscode
 *.log
 ```
+
+### Deploy Vercel
+`cloudwalk-challenge-frontend-f1e2opzpu-icarowils-projects.vercel.app`
