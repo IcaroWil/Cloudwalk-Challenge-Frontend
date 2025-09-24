@@ -111,7 +111,7 @@ Add to `etc\hosts`:
 ```
 
 Open:
-```http
+```bash
 http://frontend.local
 ```
     If KnowledgeAgent answers look generic, the Backend’s Redis likely needs **seed data**. Run the Backend repo’s seed script against the cluster Redis.
